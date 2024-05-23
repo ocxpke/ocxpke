@@ -35,4 +35,5 @@ By now I am studying at Malaga University an Computer Science degree let me show
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+*Some stats:*<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ocxpke)](https://github.com/anuraghazra/github-readme-stats)
