@@ -3,12 +3,12 @@
 
 - 🔭 I’m currently working on personal projects 
 - 🌱 I’m currently learning : Java, C and C++ 
-- 👯 I’m looking to collaborate on embedded system projects 
+- 👯 I’m looking to collaborate on embedded systems projects 
 - 📫 Feel free to reach out to me at joseramirez0707@gmail.com to participate on potential collaborations!
 
-At this point in time I am studying at Malaga University an Computer Science degree let me show you what I haved worked with ⬇️⬇️⬇️<br />
+At this point in time I am studying at Malaga University a Computer Science degree let me show you what I've worked with ⬇️⬇️⬇️<br />
 <br/>
-*Programmed on these languages:*<br />
+*Programmed in these languages:*<br />
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
