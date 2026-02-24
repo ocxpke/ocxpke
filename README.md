@@ -38,6 +38,9 @@ At this point in time I am studying at Malaga University a Computer Science degr
 *Some stats:*<br />
 [![jose-ara's 42 stats](https://badge.mediaplus.ma/colorfulwaves/jose-ara?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vizarranz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vizarranz&theme=tokyonight&hide_border=false)
+
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
 <!--
