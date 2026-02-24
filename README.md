@@ -36,10 +36,14 @@ At this point in time I am studying at Malaga University a Computer Science degr
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 *Some stats:*<br />
-[![jose-ara's 42 stats](https://badge.mediaplus.ma/colorfulwaves/jose-ara?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ocxpke&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ocxpke&theme=tokyonight&hide_border=false)
+<div align="center">
+  
+  [![jose-ara's 42 stats](https://badge.mediaplus.ma/colorfulwaves/jose-ara?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ocxpke&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ocxpke&theme=tokyonight&hide_border=false)
+</div>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ocxpke)](https://github.com/anuraghazra/github-readme-stats)
